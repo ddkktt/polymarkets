@@ -1,84 +1,89 @@
-rom py_clob_client.client import ClobClient
+import httpx
 import json
 from datetime import datetime
 import os
 from dotenv import load_dotenv
+import asyncio
 
-# Load environment variables
-load_dotenv()
+# Define exclude terms
+exclude_terms = [
+   
+]
 
-# Get environment variables
-host: str = os.getenv('CLOB_HOST', 'https://clob.polymarket.com/')
-key: str = os.getenv('API_KEY')
-chain_id: int = int(os.getenv('CHAIN_ID', '137'))
-
-# Verify required environment variables are present
-if not key:
-    raise ValueError("API_KEY must be set in environment variables")
-
-# Initialization of a client that trades directly from an EOA
-client = ClobClient(host, key=key, chain_id=chain_id)
-
-def get_and_save_filtered_markets(client):
+async def get_filtered_markets(
+    limit: int = 400,
+    offset: int = 0,
+    active: bool = True,
+    archived: bool = False,
+    closed: bool = False
+):
     """
-    Fetches active markets containing specific keywords and saves to JSON.
-    Keywords: tariff/tarrif, fed, china, russia, ukraine
+    Fetches markets from Polymarket API, prints raw JSON, and saves both filtered and unfiltered data
     """
-    next_cursor = ""
-    keywords = ['tariff', 'tarrif', 'fed', 'china', 'russia', 'ukraine']
-    filtered_markets = []
-    
-    while True:
-        try:
-            response = client.get_markets(next_cursor=next_cursor)
+    try:
+        async with httpx.AsyncClient() as client:
+            response = await client.get(
+                "https://gamma-api.polymarket.com/events",
+                params={
+                    "limit": limit,
+                    "active": active,
+                    "archived": archived,
+                    "closed": closed,
+                    "order": "volume24hr",
+                    "ascending": False,
+                    "offset": offset
+                }
+            )
             
-            for market in response.get('data', []):
-                # Check if market is active and contains keywords
-                description = market.get('description', '').lower()
-                is_active = market.get('active', False)
-                
-                if is_active and any(keyword in description for keyword in keywords):
-                    # Create market entry for JSON
-                    market_data = {
-                        'condition_id': market.get('condition_id', 'N/A'),
-                        'description': market.get('description', 'N/A'),
-                        'category': market.get('category', 'N/A'),
-                        'token_ids': [token.get('token_id', 'N/A') for token in market.get('tokens', [])]
-                    }
-                    
-                    # Add to filtered markets list
-                    filtered_markets.append(market_data)
-                    
-                    # Print market info
-                    print(f"Condition ID: {market_data['condition_id']}")
-                    print(f"Description: {market_data['description']}")
-                    print(f"Category: {market_data['category']}")
-                    print(f"Token IDs: {', '.join(market_data['token_ids'])}")
-                    print("-" * 50)
+            if response.status_code != 200:
+                print(f"Error fetching markets: {response.text}")
+                return
             
-            # Check if there are more pages
-            next_cursor = response.get('next_cursor', '')
-            if not next_cursor or next_cursor == 'LTE=':
-                break
-                
-        except Exception as e:
-            print(f"Error fetching markets: {str(e)}")
-            break
-    
-    # Save to JSON file with timestamp
-    timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
-    filename = f"filtered_markets_{timestamp}.json"
-    
-    with open(filename, 'w') as f:
-        json.dump({
-            'timestamp': datetime.now().isoformat(),
-            'total_markets': len(filtered_markets),
-            'markets': filtered_markets
-        }, f, indent=2)
-    
-    print(f"\nFound {len(filtered_markets)} matching markets")
-    print(f"Results saved to: {filename}")
-    print("Done!")
+            # Get raw response
+            markets_data = response.json()
+            
+            # Print raw JSON with pretty formatting
+            print("Raw JSON response:")
+            print(json.dumps(markets_data, indent=2))
+            
+            # Filter markets
+            filtered_markets = [
+                market for market in markets_data 
+                if not any(term.lower() in market.get('title', '').lower() for term in exclude_terms)
+            ]
+            
+            # Print filtered JSON
+            print("\nFiltered JSON response (excluding sports terms):")
+            print(json.dumps(filtered_markets, indent=2))
+            
+            # Save both raw and filtered data
+            timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
+            raw_filename = f"raw_markets_{timestamp}.json"
+            filtered_filename = f"filtered_markets_{timestamp}.json"
+            
+            # Save raw data
+            with open(raw_filename, 'w') as f:
+                json.dump({
+                    'timestamp': datetime.now().isoformat(),
+                    'total_markets': len(markets_data),
+                    'markets': markets_data
+                }, f, indent=2)
+            
+            # Save filtered data
+            with open(filtered_filename, 'w') as f:
+                json.dump({
+                    'timestamp': datetime.now().isoformat(),
+                    'total_markets': len(filtered_markets),
+                    'markets': filtered_markets
+                }, f, indent=2)
+            
+            print(f"\nRaw data saved to: {raw_filename}")
+            print(f"Filtered data saved to: {filtered_filename}")
+            print(f"Total markets received: {len(markets_data)}")
+            print(f"Markets after filtering: {len(filtered_markets)}")
+
+    except:
+        None
 
 if __name__ == "__main__":
-    resp = get_and_save_filtered_markets(client)
+    asyncio.run(get_filtered_markets())

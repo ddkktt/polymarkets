@@ -1,0 +1,6 @@
+py-clob-client==0.1.0  # You may need to adjust the version
+python-dotenv==1.0.0
+requests==2.31.0
+pandas==2.1.0
+pytz==2023.3
+aiohttp>=3.9.1

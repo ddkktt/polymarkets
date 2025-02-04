@@ -1,0 +1,162 @@
+# Polymarket Data Structures Documentation
+
+## Raw Markets Structure
+```json
+{
+  "timestamp": "2025-02-04T11:40:59.255202",
+  "total_markets": 400,
+  "markets": [
+    {
+      "id": "17558",
+      "ticker": "bitcoin-above-105000-on-february-7",
+      "markets": [],
+      "series": [],
+      "tags": [],
+      "cyom": false,
+      "showAllOutcomes": true,
+      "showMarketImages": true,
+      "enableNegRisk": false,
+      "automaticallyActive": true,
+      "seriesSlug": "btc-weeklies",
+      "negRiskAugmented": false
+    }
+  ]
+}
+```
+
+## Filtered Markets Structure
+```json
+{
+  "ticker": "",
+  "slug": "",
+  "startDate": "",
+  "endDate": "",
+  "liquidity": 0,
+  "volume": 0,
+  "openInterest": 0,
+  "volume24hr": 0,
+  "liquidityClob": 0,
+  "markets_detail": [
+    {
+      "id": "",
+      "question": "",
+      "conditionId": "",
+      "slug": "",
+      "endDate": "",
+      "liquidity": "",
+      "description": "",
+      "outcomes": [],
+      "outcomePrices": [],
+      "clobTokenIds": [],
+      "bestBid": 0,
+      "bestAsk": 0,
+      "lastTradePrice": 0,
+      "oneDayPriceChange": 0,
+      "spread": 0
+    }
+  ]
+}
+```
+
+## Pre-Analyzed Markets Structure
+```json
+{
+  "timestamp": "2025-02-04T01:20:32.410466",
+  "total_markets": 313,
+  "markets": [
+    {
+      "metadata": {
+        "ticker": "",
+        "start_date": "",
+        "end_date": "",
+        "volume": 0,
+        "volume_24hr": 0
+      },
+      "markets": [
+        {
+          "question": "",
+          "probabilities": {
+            "Yes": 0,
+            "No": 0
+          },
+          "volume_24hr": 0
+        }
+      ],
+      "analysis": {
+        "economic_indicators": {
+          "impact": false,
+          "relevance": 0,
+          "reasoning": ""
+        },
+        "geopolitical_events": {
+          "impact": false,
+          "relevance": 0,
+          "reasoning": ""
+        },
+        "regulatory_changes": {
+          "impact": false,
+          "relevance": 0,
+          "reasoning": ""
+        },
+        "technological_developments": {
+          "impact": false,
+          "relevance": 0,
+          "reasoning": ""
+        }
+      }
+    }
+  ]
+}
+```
+
+## Categorized Markets Structure
+```json
+{
+  "economic_indicators": [
+    {
+      "metadata": {
+        "ticker": "",
+        "start_date": "",
+        "end_date": "",
+        "volume": 0,
+        "volume_24hr": 0
+      },
+      "markets": [
+        {
+          "question": "",
+          "probabilities": {
+            "Yes": 0,
+            "No": 0
+          },
+          "volume_24hr": 0
+        }
+      ],
+      "analysis": {
+        "economic_indicators": {
+          "impact": false,
+          "relevance": 0,
+          "reasoning": ""
+        },
+        "geopolitical_events": {
+          "impact": false,
+          "relevance": 0,
+          "reasoning": ""
+        },
+        "regulatory_changes": {
+          "impact": false,
+          "relevance": 0,
+          "reasoning": ""
+        },
+        "technological_developments": {
+          "impact": false,
+          "relevance": 0,
+          "reasoning": ""
+        }
+      }
+    }
+  ],
+  "geopolitical_events": [],
+  "regulatory_changes": [],
+  "technological_developments": []
+}
+```

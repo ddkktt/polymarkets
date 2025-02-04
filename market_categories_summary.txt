@@ -1,0 +1,1876 @@
+Market Categories Summary
+Generated: 2025-02-04 11:30:52
+
+Category Statistics:
+Economic Indicators: 9 markets, Total Volume: $16,047,801.22
+Geopolitical Events: 35 markets, Total Volume: $60,425,747.60
+Regulatory Changes: 18 markets, Total Volume: $22,659,267.06
+Technological Developments: 7 markets, Total Volume: $1,370,385.83
+
+================================================================================
+
+================================================================================
+
+Economic Indicators
+
+================================================================================
+
+#1
+Market: what-price-will-bitcoin-hit-by-march-31
+Relevance Score: 9.0
+Volume: $8,672,678.79
+24hr Volume: $384,405.66
+
+Reasoning:
+Economic indicators like CPI and interest rates directly influence investor risk appetite. High inflation or rate hikes could drive Bitcoin demand as a hedge, impacting its price volatility and target probabilities.
+
+Individual Markets:
+
+  Will Bitcoin dip to $90,000 by March 31?
+  Probabilities: Yes: 100.0%, No: 0.0%
+
+  Will Bitcoin reach $200,000 by March 31?
+  Probabilities: Yes: 3.8%, No: 96.2%
+
+  Will Bitcoin reach $150,000 by March 31?
+  Probabilities: Yes: 9.0%, No: 91.0%
+
+  Will Bitcoin reach $130,000 by March 31?
+  Probabilities: Yes: 22.0%, No: 78.0%
+
+  Will Bitcoin reach $120,000 by March 31?
+  Probabilities: Yes: 48.5%, No: 51.5%
+
+  Will Bitcoin dip to $80,000 by March 31?
+  Probabilities: Yes: 23.0%, No: 77.0%
+
+  Will Bitcoin reach $110,000 by March 31?
+  Probabilities: Yes: 66.8%, No: 33.2%
+
+  Will Bitcoin dip to $70,000 by March 31?
+  Probabilities: Yes: 7.5%, No: 92.5%
+
+----------------------------------------
+
+#2
+Market: next-prime-minster-of-canada
+Relevance Score: 9.0
+Volume: $2,337,046.59
+24hr Volume: $63,596.48
+
+Reasoning:
+Economic factors like inflation (CPI), interest rates, and recessions strongly influence voter sentiment and election outcomes, which are critical to determining the next Prime Minister. Pierre Poilievre's high probability suggests perceived alignment with economic concerns.
+
+Individual Markets:
+
+  Will Pierre Poilievre be the next Canadian Prime Minister?
+  Probabilities: Yes: 83.0%, No: 17.0%
+
+  Will Chrystia Freeland be the next Canadian Prime Minister?
+  Probabilities: Yes: 0.6%, No: 99.4%
+
+  Will Mark Carney be the next Canadian Prime Minister?
+  Probabilities: Yes: 17.0%, No: 83.0%
+
+  Will Jagmeet Singh be the next Canadian Prime Minister?
+  Probabilities: Yes: 0.2%, No: 99.8%
+
+  Will Justin Trudeau be the next Canadian Prime Minister?
+  Probabilities: Yes: 0.4%, No: 99.7%
+
+----------------------------------------
+
+#3
+Market: what-price-will-bitcoin-hit-in-2025
+Relevance Score: 9.0
+Volume: $2,112,136.53
+24hr Volume: $184,985.07
+
+Reasoning:
+Economic indicators like inflation (CPI), interest rates, and recessions significantly influence investor risk appetite and capital flows. High interest rates could reduce speculative investments in Bitcoin, while economic instability might drive demand for decentralized assets as hedges.
+
+Individual Markets:
+
+  Will Bitcoin reach $1,000,000 by December 31, 2025?
+  Probabilities: Yes: 4.5%, No: 95.5%
+
+  Will Bitcoin reach $250,000 by December 31, 2025?
+  Probabilities: Yes: 13.5%, No: 86.5%
+
+  Will Bitcoin reach $200,000 by December 31, 2025?
+  Probabilities: Yes: 21.0%, No: 79.0%
+
+  Will Bitcoin reach $150,000 by December 31, 2025?
+  Probabilities: Yes: 40.5%, No: 59.5%
+
+  Will Bitcoin reach $130,000 by December 31, 2025?
+  Probabilities: Yes: 63.0%, No: 37.0%
+
+  Will Bitcoin reach $120,000 by December 31, 2025?
+  Probabilities: Yes: 75.5%, No: 24.5%
+
+  Will Bitcoin reach $110,000 by December 31, 2025?
+  Probabilities: Yes: 88.5%, No: 11.5%
+
+  Will Bitcoin reach $100,000 by December 31, 2025?
+  Probabilities: Yes: 100.0%, No: 0.0%
+
+  Will Bitcoin dip to $50,000 by December 31, 2025?
+  Probabilities: Yes: 25.5%, No: 74.5%
+
+  Will Bitcoin dip to $90,000 by December 31, 2025?
+  Probabilities: Yes: 100.0%, No: 0.0%
+
+  Will Bitcoin dip to $80,000 by December 31, 2025?
+  Probabilities: Yes: 67.0%, No: 33.0%
+
+  Will Bitcoin dip to $70,000 by December 31, 2025?
+  Probabilities: Yes: 43.0%, No: 57.0%
+
+  Will Bitcoin dip to $20,000 by December 31, 2025?
+  Probabilities: Yes: 4.2%, No: 95.8%
+
+----------------------------------------
+
+#4
+Market: ecuador-presidential-election
+Relevance Score: 9.0
+Volume: $1,747,668.49
+24hr Volume: $57,327.24
+
+Reasoning:
+Economic conditions like inflation (CPI) and recessions directly influence voter sentiment. Worsening economic indicators could strengthen anti-incumbent sentiment or favor candidates with credible economic plans. Daniel Noboa’s high probability may reflect public confidence in his economic policies.
+
+Individual Markets:
+
+  Will Daniel Noboa win the 2025 Ecuadorian Presidential Election? 
+  Probabilities: Yes: 93.0%, No: 7.0%
+
+  Will Luisa González win the 2025 Ecuadorian Presidential Election? 
+  Probabilities: Yes: 7.0%, No: 93.0%
+
+  Will Jan Topić win the 2025 Ecuadorian Presidential Election? 
+  Probabilities: Yes: 0.2%, No: 99.8%
+
+  Will Gustavo Jalkh win the 2025 Ecuadorian Presidential Election?
+  Probabilities: Yes: 0.2%, No: 99.8%
+
+  Will Henry Cucalón win the 2025 Ecuadorian Presidential Election?
+  Probabilities: Yes: 0.2%, No: 99.8%
+
+----------------------------------------
+
+#5
+Market: who-will-trump-announce-as-next-fed-chair
+Relevance Score: 9.0
+Volume: $1,028,484.49
+24hr Volume: $2,794.98
+
+Reasoning:
+The Fed Chair directly influences monetary policy, including interest rates and responses to inflation (CPI) or recessions. Trump's choice could signal future economic policy shifts, making this market highly relevant to economic indicators.
+
+Individual Markets:
+
+  Will Trump announce Larry Kudlow as next Fed Chair?
+  Probabilities: Yes: 0.4%, No: 99.7%
+
+  No Trump announcement of next Fed Chair by June 30?
+  Probabilities: Yes: 85.2%, No: 14.8%
+
+  Will Trump announce Kevin Warsh as next Fed Chair?
+  Probabilities: Yes: 5.9%, No: 94.0%
+
+  Will Trump announce Kevin Hassett as next Fed Chair?
+  Probabilities: Yes: 2.5%, No: 97.5%
+
+  Will Trump announce Arthur Laffer as next Fed Chair?
+  Probabilities: Yes: 0.5%, No: 99.5%
+
+  Will Trump announce Judy Shelton as next Fed Chair?
+  Probabilities: Yes: 0.8%, No: 99.2%
+
+----------------------------------------
+
+#6
+Market: magnificent-7-shrinks-below-30-of-sp-500-in-2025
+Relevance Score: 9.0
+Volume: $117,007.56
+24hr Volume: $30,114.07
+
+Reasoning:
+Economic indicators like interest rates and inflation (CPI) directly influence the valuation of high-growth tech stocks. Higher rates could erode the Magnificent 7's premium valuations, while a recession might reduce consumer and enterprise spending, disproportionately affecting their earnings and market share.
+
+Individual Markets:
+
+  Magnificent 7 shrinks below 30% of S&P 500 in 2025?
+  Probabilities: Yes: 39.5%, No: 60.5%
+
+----------------------------------------
+
+#7
+Market: trump-abolishes-the-federal-income-tax-in-2025
+Relevance Score: 9.0
+Volume: $24,055.59
+24hr Volume: $1,395.62
+
+Reasoning:
+Abolishing federal income tax would drastically alter government revenue, likely triggering inflationary pressure (CPI), adjustments to interest rates to manage borrowing costs, and potential economic overheating or recessions due to fiscal deficits.
+
+Individual Markets:
+
+  Trump abolishes the Federal Income Tax in 2025?
+  Probabilities: Yes: 9.5%, No: 90.5%
+
+----------------------------------------
+
+#8
+Market: trump-tariffs-on-china-in-effect-by-friday
+Relevance Score: 9.0
+Volume: $5,019.06
+24hr Volume: $5,019.06
+
+Reasoning:
+Tariffs on Chinese goods could increase prices of imported items, contributing to inflationary pressures (CPI). This might influence interest rate decisions if inflation rises. Prolonged trade tensions could also impact economic growth, raising recession risks.
+
+Individual Markets:
+
+  Trump tariffs on China in effect by Friday?
+  Probabilities: Yes: 94.0%, No: 6.0%
+
+----------------------------------------
+
+#9
+Market: milei-out-as-president-of-argentina-in-2025
+Relevance Score: 9.0
+Volume: $3,704.13
+24hr Volume: $3,704.13
+
+Reasoning:
+Argentina's history of hyperinflation, debt crises, and economic instability makes economic indicators critical. Persistent high CPI, recessionary trends, or inability to stabilize the economy under Milei’s policies could directly fuel public discontent or political challenges, increasing the likelihood of his removal.
+
+Individual Markets:
+
+  Milei out as President of Argentina in 2025?
+  Probabilities: Yes: 7.5%, No: 92.5%
+
+----------------------------------------
+
+================================================================================
+
+Geopolitical Events
+
+================================================================================
+
+#1
+Market: which-trump-picks-will-be-confirmed
+Relevance Score: 9.0
+Volume: $15,838,060.86
+24hr Volume: $891,985.13
+
+Reasoning:
+Positions such as Secretary of State (Rubio), UN Ambassador (Stefanik), CIA Director (Ratcliffe), and Israel Ambassador (Huckabee) are directly tied to U.S. foreign policy, alliances, and conflict resolution. Their confirmations could shape geopolitical dynamics, sanctions, or election interference strategies.
+
+Individual Markets:
+
+  Pam Bondi confirmed as Attorney General?
+  Probabilities: Yes: 99.7%, No: 0.3%
+
+   Doug Collins confirmed as Secretary of Veterans Affairs?
+  Probabilities: Yes: 100.0%, No: 0.1%
+
+  Pete Hegseth confirmed as Secretary of Defense?
+  Probabilities: Yes: 100.0%, No: 0.0%
+
+  Elise Stefanik confirmed as UN ambassador?
+  Probabilities: Yes: 99.7%, No: 0.4%
+
+   Sean Duffy confirmed as Secretary of Transportation?
+  Probabilities: Yes: 100.0%, No: 0.0%
+
+  Kash Patel confirmed as Director of the FBI?
+  Probabilities: Yes: 95.9%, No: 4.2%
+
+  Chris Wright confirmed as Secretary of Energy?
+  Probabilities: Yes: 100.0%, No: 0.0%
+
+  Doug Burgum confirmed as Secretary of the Interior?
+  Probabilities: Yes: 100.0%, No: 0.0%
+
+  Brooke Rollins confirmed as Agriculture Secretary?
+  Probabilities: Yes: 98.7%, No: 1.3%
+
+  Kristi Noem confirmed as Secretary of Homeland Security?
+  Probabilities: Yes: 100.0%, No: 0.0%
+
+  Lee Zeldin confirmed as Administrator of the EPA?
+  Probabilities: Yes: 100.0%, No: 0.0%
+
+  RFK Jr. confirmed as Health & Human Services Secretary?
+  Probabilities: Yes: 83.0%, No: 17.0%
+
+  Mike Huckabee confirmed as ambassador to Israel?
+  Probabilities: Yes: 98.5%, No: 1.6%
+
+  Russell Vought confirmed as OMB Director?
+  Probabilities: Yes: 98.5%, No: 1.5%
+
+  John Ratcliffe confirmed as director of the CIA?
+  Probabilities: Yes: 100.0%, No: 0.0%
+
+  Marco Rubio confirmed as Secretary of State?
+  Probabilities: Yes: 100.0%, No: 0.0%
+
+  Matt Gaetz confirmed as Attorney General?
+  Probabilities: Yes: 0.0%, No: 100.0%
+
+  Tulsi Gabbard confirmed as Director of National Intelligence?
+  Probabilities: Yes: 92.5%, No: 7.5%
+
+  Scott Bessent confirmed as Treasury Secretary?
+  Probabilities: Yes: 100.0%, No: 0.0%
+
+  Scott Turner confirmed as HUD Secretary?
+  Probabilities: Yes: 99.3%, No: 0.7%
+
+  Mehmet Oz confirmed as Secretary of State?
+  Probabilities: Yes: 50.0%, No: 50.0%
+
+  Mehmet Oz confirmed as Medicare and Medicaid Administrator?
+  Probabilities: Yes: 97.8%, No: 2.2%
+
+  Lori Chavez-DeRemer confirmed as Labor Secretary?
+  Probabilities: Yes: 96.8%, No: 3.2%
+
+----------------------------------------
+
+#2
+Market: next-chancellor-of-germany
+Relevance Score: 10.0
+Volume: $14,766,889.01
+24hr Volume: $98,723.86
+
+Reasoning:
+The outcome is directly tied to domestic German politics (e.g., coalition negotiations, scandals, or early elections) and international events (e.g., conflicts, sanctions) that could sway public opinion or destabilize the current government.
+
+Individual Markets:
+
+  Will Robert Habeck be the next Chancellor of Germany?
+  Probabilities: Yes: 1.8%, No: 98.2%
+
+  Will Jan van Aken be the next Chancellor of Germany?
+  Probabilities: Yes: 0.1%, No: 100.0%
+
+  Will Christian Lindner be the next Chancellor of Germany?
+  Probabilities: Yes: 0.1%, No: 99.9%
+
+  Will Heidi Reichinnek be the next Chancellor of Germany?
+  Probabilities: Yes: 0.1%, No: 99.9%
+
+  Will Friedrich Merz be the next Chancellor of Germany?
+  Probabilities: Yes: 90.5%, No: 9.5%
+
+  Will Olaf Scholz be the next Chancellor of Germany?
+  Probabilities: Yes: 2.7%, No: 97.3%
+
+  Will  Alice Weidel be the next Chancellor of Germany?
+  Probabilities: Yes: 4.8%, No: 95.2%
+
+----------------------------------------
+
+#3
+Market: afd-of-vote-in-german-election
+Relevance Score: 9.0
+Volume: $14,548,644.03
+24hr Volume: $534,641.41
+
+Reasoning:
+The market directly tracks a geopolitical event (a national election) and is highly sensitive to related developments, such as election interference, scandals, or shifts in public opinion due to international conflicts or crises.
+
+Individual Markets:
+
+  Will the AfD win less than 10% of the vote in the German election?
+  Probabilities: Yes: 0.4%, No: 99.7%
+
+  Will the AfD win 10-15% of the vote in the German election?
+  Probabilities: Yes: 0.8%, No: 99.2%
+
+  Will the AfD win 25-30% of the vote in the German election?
+  Probabilities: Yes: 22.3%, No: 77.7%
+
+  Will the AfD win 20-25% of the vote in the German election?
+  Probabilities: Yes: 53.5%, No: 46.5%
+
+  Will the AfD win over 30% of the vote in the German election?
+  Probabilities: Yes: 3.9%, No: 96.1%
+
+  Will the AfD win 15-20% of the vote in the German election?
+  Probabilities: Yes: 20.0%, No: 80.0%
+
+----------------------------------------
+
+#4
+Market: trump-administration
+Relevance Score: 9.0
+Volume: $4,776,237.34
+24hr Volume: $200,263.69
+
+Reasoning:
+The inclusion of figures like Mike Pompeo, Marco Rubio, or Tulsi Gabbard in the administration would directly shape U.S. foreign policy, alliances, or responses to global conflicts, making this highly relevant to geopolitical outcomes such as elections, sanctions, or diplomatic tensions.
+
+Individual Markets:
+
+  Will Elon Musk be a member of the Trump administration? 
+  Probabilities: Yes: 99.6%, No: 0.4%
+
+  Will Mike Pompeo be a member of the Trump administration? 
+  Probabilities: Yes: 2.5%, No: 97.5%
+
+  Will RFK be a member of the Trump administration? 
+  Probabilities: Yes: 100.0%, No: 0.0%
+
+  Will Ron Paul be a member of the Trump administration? 
+  Probabilities: Yes: 2.2%, No: 97.8%
+
+  Will Steve Bannon be a member of the Trump administration? 
+  Probabilities: Yes: 2.3%, No: 97.7%
+
+  Will Vivek Ramaswamy be a member of the Trump administration? 
+  Probabilities: Yes: 1.8%, No: 98.2%
+
+  Will Donald Trump Jr. be a member of the Trump administration? 
+  Probabilities: Yes: 5.5%, No: 94.5%
+
+  Will Doug Burgum be a member of the Trump administration? 
+  Probabilities: Yes: 100.0%, No: 0.0%
+
+  Will Jared Kushner be a member of the Trump administration? 
+  Probabilities: Yes: 3.2%, No: 96.8%
+
+  Will David Sacks be a member of the Trump administration? 
+  Probabilities: Yes: 92.1%, No: 7.9%
+
+  Will Jamie Dimon be a member of the Trump administration? 
+  Probabilities: Yes: 2.1%, No: 97.9%
+
+  Will Marco Rubio be a member of the Trump administration? 
+  Probabilities: Yes: 100.0%, No: 0.0%
+
+  Will Betsy DeVos be a member of the Trump administration?
+  Probabilities: Yes: 2.5%, No: 97.5%
+
+  Will Kari Lake be a member of the Trump administration?
+  Probabilities: Yes: 25.5%, No: 74.5%
+
+  Will Matt Gaetz be a member of the Trump administration?
+  Probabilities: Yes: 5.7%, No: 94.3%
+
+  Will Sarah Palin be a member of the Trump administration?
+  Probabilities: Yes: 5.5%, No: 94.5%
+
+  Will Ron DeSantis be a member of the Trump administration?
+  Probabilities: Yes: 2.5%, No: 97.5%
+
+  Will Nikki Haley be a member of the Trump administration?
+  Probabilities: Yes: 1.9%, No: 98.0%
+
+  Will Ivanka Trump be a member of the Trump administration?
+  Probabilities: Yes: 2.6%, No: 97.4%
+
+  Will Ben Carson be a member of the Trump administration?
+  Probabilities: Yes: 13.5%, No: 86.5%
+
+  Will Bernie Sanders be a member of the Trump administration?
+  Probabilities: Yes: 1.5%, No: 98.6%
+
+  Will Ken Paxton be a member of the Trump administration?
+  Probabilities: Yes: 3.5%, No: 96.5%
+
+  Will Tulsi Gabbard  be a member of the Trump administration?
+  Probabilities: Yes: 100.0%, No: 0.0%
+
+----------------------------------------
+
+#5
+Market: next-prime-minster-of-canada
+Relevance Score: 10.0
+Volume: $2,337,046.59
+24hr Volume: $63,596.48
+
+Reasoning:
+The market is explicitly tied to a political leadership outcome (election). Geopolitical events like federal elections, policy debates, or international conflicts could directly sway voter preferences and party dynamics.
+
+Individual Markets:
+
+  Will Pierre Poilievre be the next Canadian Prime Minister?
+  Probabilities: Yes: 83.0%, No: 17.0%
+
+  Will Chrystia Freeland be the next Canadian Prime Minister?
+  Probabilities: Yes: 0.6%, No: 99.4%
+
+  Will Mark Carney be the next Canadian Prime Minister?
+  Probabilities: Yes: 17.0%, No: 83.0%
+
+  Will Jagmeet Singh be the next Canadian Prime Minister?
+  Probabilities: Yes: 0.2%, No: 99.8%
+
+  Will Justin Trudeau be the next Canadian Prime Minister?
+  Probabilities: Yes: 0.4%, No: 99.7%
+
+----------------------------------------
+
+#6
+Market: ecuador-presidential-election
+Relevance Score: 10.0
+Volume: $1,747,668.49
+24hr Volume: $57,327.24
+
+Reasoning:
+The election itself is a geopolitical event, and outcomes could shift Ecuador’s international alliances or domestic stability. Regional conflicts, sanctions, or diplomatic tensions might also sway voter priorities, making geopolitical factors critical to market pricing.
+
+Individual Markets:
+
+  Will Daniel Noboa win the 2025 Ecuadorian Presidential Election? 
+  Probabilities: Yes: 93.0%, No: 7.0%
+
+  Will Luisa González win the 2025 Ecuadorian Presidential Election? 
+  Probabilities: Yes: 7.0%, No: 93.0%
+
+  Will Jan Topić win the 2025 Ecuadorian Presidential Election? 
+  Probabilities: Yes: 0.2%, No: 99.8%
+
+  Will Gustavo Jalkh win the 2025 Ecuadorian Presidential Election?
+  Probabilities: Yes: 0.2%, No: 99.8%
+
+  Will Henry Cucalón win the 2025 Ecuadorian Presidential Election?
+  Probabilities: Yes: 0.2%, No: 99.8%
+
+----------------------------------------
+
+#7
+Market: will-trump-issue-an-executive-order-on-day-11
+Relevance Score: 9.0
+Volume: $1,043,790.23
+24hr Volume: $380,393.55
+
+Reasoning:
+The issuance of an executive order by a political leader like Trump is inherently a geopolitical event, directly tied to governance and policy decisions.
+
+Individual Markets:
+
+  Will Trump issue an executive order on Day 11?
+  Probabilities: Yes: 0.5%, No: 99.5%
+
+----------------------------------------
+
+#8
+Market: romania-presidential-election-winner
+Relevance Score: 10.0
+Volume: $1,004,785.43
+24hr Volume: $78,198.60
+
+Reasoning:
+The market directly tracks a geopolitical event (a presidential election). External factors like regional tensions, international alliances, or domestic political scandals could significantly sway voter preferences and candidate viability.
+
+Individual Markets:
+
+  Will Călin Georgescu win the Romanian presidential election?
+  Probabilities: Yes: 35.5%, No: 64.5%
+
+  Will George Simion win the Romanian presidential election?
+  Probabilities: Yes: 10.0%, No: 90.0%
+
+  Will Victor Ponta win the Romanian presidential election?
+  Probabilities: Yes: 4.1%, No: 95.9%
+
+  Will Nicușor Dan win the Romanian presidential election?
+  Probabilities: Yes: 19.0%, No: 81.0%
+
+  Will Elena Lasconi win the Romanian presidential election?
+  Probabilities: Yes: 13.0%, No: 87.0%
+
+  Will Crin Antonescu win the Romanian presidential election?
+  Probabilities: Yes: 17.5%, No: 82.5%
+
+  Will Marcel Ciolacu win the Romanian presidential election?
+  Probabilities: Yes: 1.5%, No: 98.6%
+
+  Will Ana Birchall win the Romanian presidential election?
+  Probabilities: Yes: 0.4%, No: 99.7%
+
+  Will Nicolae Ciucă win the Romanian presidential election?
+  Probabilities: Yes: 0.4%, No: 99.7%
+
+  Will Mircea Geoană win the Romanian presidential election?
+  Probabilities: Yes: 0.5%, No: 99.5%
+
+  Will Hunor Kelemen win the Romanian presidential election?
+  Probabilities: Yes: 0.4%, No: 99.7%
+
+  Will Daniel Funeriu win the Romanian presidential election?
+  Probabilities: Yes: 0.4%, No: 99.6%
+
+  Will Teodor Nițulescu win the Romanian presidential election?
+  Probabilities: Yes: 0.4%, No: 99.7%
+
+  Will Cristian Sima win the Romanian presidential election?
+  Probabilities: Yes: 0.5%, No: 99.5%
+
+----------------------------------------
+
+#9
+Market: trump-signs-national-abortion-ban-in-first-100-days
+Relevance Score: 9.0
+Volume: $831,823.88
+24hr Volume: $3,042.61
+
+Reasoning:
+This is a high-stakes domestic policy decision with significant political ramifications, likely influencing U.S. elections, public protests, and international perceptions of governance.
+
+Individual Markets:
+
+  Trump signs national abortion ban?
+  Probabilities: Yes: 17.0%, No: 83.0%
+
+----------------------------------------
+
+#10
+Market: russia-x-ukraine-ceasefire-in-2025
+Relevance Score: 10.0
+Volume: $503,310.25
+24hr Volume: $13,392.26
+
+Reasoning:
+Directly tied to the market's focus. Elections, military outcomes, shifting alliances (e.g., NATO support for Ukraine, Russia’s partnerships), or sanctions escalation could decisively influence ceasefire prospects.
+
+Individual Markets:
+
+  Russia x Ukraine ceasefire in 2025?
+  Probabilities: Yes: 60.5%, No: 39.5%
+
+----------------------------------------
+
+#11
+Market: trump-declassifies-epstein-list
+Relevance Score: 9.0
+Volume: $485,430.08
+24hr Volume: $15,449.12
+
+Reasoning:
+The release could trigger political fallout, influence elections, and strain international relations if high-profile figures are implicated. This aligns closely with geopolitical dynamics, especially in election cycles or diplomatic contexts.
+
+Individual Markets:
+
+  Trump declassifies Epstein list?
+  Probabilities: Yes: 21.5%, No: 78.5%
+
+----------------------------------------
+
+#12
+Market: how-many-senators-vote-to-confirm-tulsi-gabbard
+Relevance Score: 9.0
+Volume: $428,628.18
+24hr Volume: $52,505.02
+
+Reasoning:
+Senate confirmations are inherently tied to geopolitical dynamics, including elections, party alignment, and international tensions. Tulsi Gabbard's foreign policy views and partisan dynamics would heavily sway votes.
+
+Individual Markets:
+
+  Less than 49 Senators vote to confirm Tulsi Gabbard as as Director of National Intelligence?
+  Probabilities: Yes: 3.8%, No: 96.2%
+
+  Will 49 Senators vote to confirm Tulsi Gabbard as as Director of National Intelligence?
+  Probabilities: Yes: 5.4%, No: 94.6%
+
+  Will 50 Senators vote to confirm Tulsi Gabbard as as Director of National Intelligence?
+  Probabilities: Yes: 20.7%, No: 79.3%
+
+  Will 51 Senators vote to confirm Tulsi Gabbard as as Director of National Intelligence?
+  Probabilities: Yes: 28.5%, No: 71.5%
+
+  Will 52 Senators vote to confirm Tulsi Gabbard as as Director of National Intelligence?
+  Probabilities: Yes: 28.5%, No: 71.5%
+
+  Will 53 Senators vote to confirm Tulsi Gabbard as as Director of National Intelligence?
+  Probabilities: Yes: 10.6%, No: 89.4%
+
+  Will 54 or more Senators vote to confirm Tulsi Gabbard as as Director of National Intelligence?
+  Probabilities: Yes: 9.7%, No: 90.3%
+
+----------------------------------------
+
+#13
+Market: who-will-acquire-tiktok
+Relevance Score: 10.0
+Volume: $325,228.95
+24hr Volume: $12,744.04
+
+Reasoning:
+US-China tensions over data security and foreign ownership of TikTok are central to forced divestiture discussions. Elections (e.g., US 2024) or geopolitical shifts could accelerate or derail specific buyers, particularly those aligned with US national interests.
+
+Individual Markets:
+
+  Will Microsoft buy TikTok?
+  Probabilities: Yes: 19.5%, No: 80.5%
+
+  Will Amazon buy TikTok?
+  Probabilities: Yes: 4.0%, No: 96.0%
+
+  Will Frank McCourt buy TikTok?
+  Probabilities: Yes: 10.5%, No: 89.5%
+
+  Will Perplexity AI buy TikTok?
+  Probabilities: Yes: 5.1%, No: 95.0%
+
+  Will Oracle buy TikTok?
+  Probabilities: Yes: 26.5%, No: 73.5%
+
+  Will Meta buy TikTok?
+  Probabilities: Yes: 3.5%, No: 96.5%
+
+  Will Walmart buy TikTok?
+  Probabilities: Yes: 3.5%, No: 96.5%
+
+  Will X buy TikTok?
+  Probabilities: Yes: 1.5%, No: 98.5%
+
+  Will Rumble buy TikTok?
+  Probabilities: Yes: 4.8%, No: 95.2%
+
+  Will Steve Mnuchin buy TikTok?
+  Probabilities: Yes: 3.5%, No: 96.5%
+
+  Will Elon Musk buy TikTok before July?
+  Probabilities: Yes: 5.9%, No: 94.0%
+
+  Will Bobby Kotick buy TikTok?
+  Probabilities: Yes: 2.3%, No: 97.7%
+
+  Will Sam Altman buy TikTok?
+  Probabilities: Yes: 4.5%, No: 95.5%
+
+  Will Larry Ellison buy TikTok before July?
+  Probabilities: Yes: 22.5%, No: 77.5%
+
+  Will MrBeast buy TikTok before July?
+  Probabilities: Yes: 15.5%, No: 84.5%
+
+----------------------------------------
+
+#14
+Market: who-will-be-trumps-director-of-national-intelligence
+Relevance Score: 9.0
+Volume: $310,124.86
+24hr Volume: $135,963.33
+
+Reasoning:
+The appointment of a Director of National Intelligence is inherently geopolitical. It reflects election outcomes, alliances, and security priorities. Trump’s selection will depend on political dynamics, international relations, and domestic security concerns, making this highly relevant.
+
+Individual Markets:
+
+  Will Tulsi Gabbard be Trump’s Director of National Intelligence?
+  Probabilities: Yes: 92.0%, No: 8.0%
+
+  Will Douglas Macgregor be Trump’s Director of National Intelligence?
+  Probabilities: Yes: 0.4%, No: 99.7%
+
+  Will Robert O'Brien be Trump’s Director of National Intelligence?
+  Probabilities: Yes: 1.3%, No: 98.7%
+
+  Will Chris Stewart be Trump’s Director of National Intelligence?
+  Probabilities: Yes: 2.6%, No: 97.4%
+
+  Will Ric Grenell be Trump’s Director of National Intelligence?
+  Probabilities: Yes: 0.3%, No: 99.7%
+
+  Will Stephen Miller be Trump’s Director of National Intelligence?
+  Probabilities: Yes: 0.2%, No: 99.8%
+
+  Will Devin Nunes be Trump’s Director of National Intelligence?
+  Probabilities: Yes: 0.4%, No: 99.6%
+
+  Will Michael Flynn be Trump’s Director of National Intelligence?
+  Probabilities: Yes: 0.3%, No: 99.7%
+
+  Will Ezra Cohen-Watnick be Trump’s Director of National Intelligence?
+  Probabilities: Yes: 0.5%, No: 99.5%
+
+----------------------------------------
+
+#15
+Market: who-will-be-the-next-director-oft-the-fbi
+Relevance Score: 9.0
+Volume: $298,958.17
+24hr Volume: $11,837.78
+
+Reasoning:
+The appointment hinges on Trump’s re-election and political strategy, which are inherently geopolitical. A major security crisis or election outcome could sway preferences for candidates perceived as aligned with specific agendas.
+
+Individual Markets:
+
+  Will Kash Patel be Trump's FBI director?
+  Probabilities: Yes: 95.8%, No: 4.2%
+
+  Will Mike Rogers be Trump's FBI director?
+  Probabilities: Yes: 0.1%, No: 99.9%
+
+  Will Andrew Bailey be Trump's FBI director?
+  Probabilities: Yes: 0.5%, No: 99.5%
+
+  Will Ken Paxton be Trump's FBI director?
+  Probabilities: Yes: 1.0%, No: 99.0%
+
+----------------------------------------
+
+#16
+Market: will-trump-impose-large-tariffs-in-first-6-months
+Relevance Score: 10.0
+Volume: $269,899.12
+24hr Volume: $32,534.16
+
+Reasoning:
+The decision hinges on Trump’s political strategy, which may be influenced by elections, foreign policy tensions, or retaliatory actions (e.g., trade wars, sanctions) from other nations, making geopolitical dynamics central to the outcome.
+
+Individual Markets:
+
+  Will Trump impose large tariffs in his first 6 months? 
+  Probabilities: Yes: 29.0%, No: 71.0%
+
+----------------------------------------
+
+#17
+Market: will-tiktok-be-on-the-app-store-on-may-1
+Relevance Score: 9.0
+Volume: $206,383.88
+24hr Volume: $8,980.73
+
+Reasoning:
+TikTok's availability hinges on U.S.-China relations, data privacy concerns, and potential government bans (e.g., ongoing legislative efforts to restrict TikTok over national security risks). Elections or diplomatic tensions could accelerate enforcement actions impacting App Store status.
+
+Individual Markets:
+
+  Will TikTok be on the App Store on May 1?
+  Probabilities: Yes: 61.0%, No: 39.0%
+
+----------------------------------------
+
+#18
+Market: next-prime-minister-of-australia
+Relevance Score: 10.0
+Volume: $186,091.20
+24hr Volume: $6,045.23
+
+Reasoning:
+The election itself is a geopolitical event. Unexpected crises (e.g., regional conflicts, trade disruptions) could influence leadership perceptions, affecting outcomes for candidates like Dutton or Albanese.
+
+Individual Markets:
+
+  Will Peter Dutton be the next Prime Minister of Australia after the 2025 election?
+  Probabilities: Yes: 62.5%, No: 37.5%
+
+  Will Tanya Plibersek be the next Prime Minister of Australia after the 2025 election?
+  Probabilities: Yes: 0.4%, No: 99.6%
+
+  Will Jim Chalmers be the next Prime Minister of Australia after the 2025 election?
+  Probabilities: Yes: 0.5%, No: 99.5%
+
+  Will Anthony Albanese be the next Prime Minister of Australia after the 2025 election?
+  Probabilities: Yes: 36.5%, No: 63.5%
+
+----------------------------------------
+
+#19
+Market: will-trump-remove-blanket-tariff-on-mexico-before-march
+Relevance Score: 10.0
+Volume: $149,129.12
+24hr Volume: $144,207.82
+
+Reasoning:
+Tariff decisions are inherently geopolitical, often tied to bilateral negotiations, elections, or diplomatic strategies. Trump’s stance could hinge on Mexico’s concessions, electoral politics, or broader foreign policy goals, making this the most relevant factor.
+
+Individual Markets:
+
+  Will Trump remove tariff on Mexico before March?
+  Probabilities: Yes: 24.0%, No: 76.0%
+
+----------------------------------------
+
+#20
+Market: trump-takes-panama-canal-in-2025
+Relevance Score: 10.0
+Volume: $134,503.27
+24hr Volume: $6,182.85
+
+Reasoning:
+This market directly hinges on a geopolitical event involving U.S. intervention in Panama. It would strain international relations, challenge sovereignty norms, and could provoke retaliatory actions (e.g., sanctions, military tensions), making it highly relevant.
+
+Individual Markets:
+
+  Trump takes Panama Canal in 2025?
+  Probabilities: Yes: 14.5%, No: 85.5%
+
+----------------------------------------
+
+#21
+Market: will-trump-remove-blanket-tariff-on-china-before-march
+Relevance Score: 10.0
+Volume: $48,137.65
+24hr Volume: $42,598.95
+
+Reasoning:
+Trump’s tariff strategy is inherently geopolitical. U.S.-China relations, electoral politics (e.g., domestic lobbying, 2024 election implications), and diplomatic negotiations would directly drive such a decision. This is the most relevant factor.
+
+Individual Markets:
+
+  Will Trump remove tariff on China before March?
+  Probabilities: Yes: 7.9%, No: 92.1%
+
+----------------------------------------
+
+#22
+Market: will-trump-meet-with-benjamin-netanyahu-by-next-friday
+Relevance Score: 10.0
+Volume: $44,068.49
+24hr Volume: $3,160.77
+
+Reasoning:
+The question centers on a potential meeting between two political figures, making geopolitical dynamics (e.g., diplomatic relations, conflicts, elections) the primary driver. Urgency from regional issues or electoral timelines could directly influence scheduling.
+
+Individual Markets:
+
+  Will Trump meet with Benjamin Netanyahu by next Friday?
+  Probabilities: Yes: 99.7%, No: 0.4%
+
+----------------------------------------
+
+#23
+Market: how-large-will-trump-eu-tariffs-be
+Relevance Score: 10.0
+Volume: $30,358.42
+24hr Volume: $27,951.86
+
+Reasoning:
+This market directly hinges on geopolitical decisions, such as U.S.-EU relations, electoral outcomes (e.g., Trump's policy priorities post-2024 election), and potential retaliatory sanctions. Geopolitical tensions are central to tariff implementation.
+
+Individual Markets:
+
+  Will Trump impose a blanket tariff of 40% or more on the EU by June 30?
+  Probabilities: Yes: 0.7%, No: 99.4%
+
+  Will Trump impose no general tariff on the EU by June 30?
+  Probabilities: Yes: 17.0%, No: 83.0%
+
+  Will Trump impose a blanket tariff of less than 10% on the EU by June 30?
+  Probabilities: Yes: 6.5%, No: 93.5%
+
+  Will Trump impose a blanket tariff of 10-20% on the EU by June 30?
+  Probabilities: Yes: 67.0%, No: 33.0%
+
+  Will Trump impose a blanket tariff of 20-30% on the EU by June 30?
+  Probabilities: Yes: 5.3%, No: 94.7%
+
+  Will Trump impose a blanket tariff of 30-40% on the EU by June 30?
+  Probabilities: Yes: 1.2%, No: 98.8%
+
+----------------------------------------
+
+#24
+Market: will-trump-recognize-somaliland-in-first-100-days
+Relevance Score: 10.0
+Volume: $27,842.92
+24hr Volume: $1,059.58
+
+Reasoning:
+The question revolves around a foreign policy decision by a U.S. president. Recognition of Somaliland would involve geopolitical considerations such as regional stability, relations with Somalia, U.S. strategic interests in the Horn of Africa, and potential electoral or diplomatic motivations.
+
+Individual Markets:
+
+  Will Trump recognize Somaliland in first 100 days?
+  Probabilities: Yes: 7.5%, No: 92.5%
+
+----------------------------------------
+
+#25
+Market: china-x-taiwan-military-clash-by
+Relevance Score: 10.0
+Volume: $20,399.28
+24hr Volume: $1,159.87
+
+Reasoning:
+The market directly hinges on geopolitical tensions, including military posturing, elections (e.g., in Taiwan or the U.S.), and international diplomatic actions. These events are central to assessing the likelihood of a clash.
+
+Individual Markets:
+
+  China x Taiwan military clash by June 30?
+  Probabilities: Yes: 4.5%, No: 95.5%
+
+  China x Taiwan military clash by December 31?
+  Probabilities: Yes: 11.5%, No: 88.5%
+
+----------------------------------------
+
+#26
+Market: will-trump-remove-blanket-tariff-on-china-before-may
+Relevance Score: 10.0
+Volume: $16,951.19
+24hr Volume: $13,244.16
+
+Reasoning:
+Tariff removal is inherently tied to US-China geopolitical dynamics, including elections, diplomatic negotiations, or strategic trade objectives. Trump’s decision would likely prioritize geopolitical strategy, such as leveraging tariffs for concessions or responding to international pressure.
+
+Individual Markets:
+
+  Will Trump remove tariff on China before May?
+  Probabilities: Yes: 25.0%, No: 75.0%
+
+----------------------------------------
+
+#27
+Market: will-greenland-vote-yes-on-independence
+Relevance Score: 9.0
+Volume: $14,098.19
+24hr Volume: $692.14
+
+Reasoning:
+The vote is inherently geopolitical. Denmark’s political stance, international pressure (e.g., from Arctic states), and alignment with global actors (e.g., EU, US) could heavily influence the outcome. Shifts in Denmark’s government or foreign policy may directly sway voter sentiment.
+
+Individual Markets:
+
+  Will Greenland vote for independence in 2025?
+  Probabilities: Yes: 19.5%, No: 80.5%
+
+----------------------------------------
+
+#28
+Market: will-trump-remove-blanket-tariff-on-mexico-before-may
+Relevance Score: 10.0
+Volume: $9,116.03
+24hr Volume: $7,814.00
+
+Reasoning:
+Tariffs are inherently geopolitical tools. The decision hinges on U.S.-Mexico relations, domestic political agendas (e.g., elections), or concessions linked to broader diplomatic negotiations, making geopolitical dynamics critical.
+
+Individual Markets:
+
+  Will Trump remove tariff on Mexico before May?
+  Probabilities: Yes: 67.5%, No: 32.5%
+
+----------------------------------------
+
+#29
+Market: trump-tariffs-on-china-in-effect-by-friday
+Relevance Score: 10.0
+Volume: $5,019.06
+24hr Volume: $5,019.06
+
+Reasoning:
+The market directly relates to a geopolitical event—U.S. trade policy under Trump. Tariffs are a tool of economic statecraft, reflecting tensions between the U.S. and China, and their implementation could escalate trade disputes or influence bilateral relations.
+
+Individual Markets:
+
+  Trump tariffs on China in effect by Friday?
+  Probabilities: Yes: 94.0%, No: 6.0%
+
+----------------------------------------
+
+#30
+Market: meloni-out-as-prime-minister-of-italy-in-2025
+Relevance Score: 10.0
+Volume: $4,927.56
+24hr Volume: $4,927.56
+
+Reasoning:
+Geopolitical factors, such as a snap election, coalition collapse, or scandals, directly influence leadership tenure. Italy’s political volatility and potential external crises (e.g., EU tensions) make this the most relevant driver.
+
+Individual Markets:
+
+  Meloni out as Prime Minister of Italy in 2025?
+  Probabilities: Yes: 7.0%, No: 93.0%
+
+----------------------------------------
+
+#31
+Market: will-trump-end-usaid-in-first-100-days
+Relevance Score: 10.0
+Volume: $4,197.52
+24hr Volume: $4,197.52
+
+Reasoning:
+The decision to end USAID is inherently geopolitical, reflecting shifts in U.S. foreign policy priorities under a Trump administration. It could strain alliances, alter global aid dynamics, and affect U.S. influence in developing regions, making this directly tied to geopolitical events.
+
+Individual Markets:
+
+  Will Trump end USAID in first 100 days?
+  Probabilities: Yes: 58.0%, No: 42.0%
+
+----------------------------------------
+
+#32
+Market: milei-out-as-president-of-argentina-in-2025
+Relevance Score: 10.0
+Volume: $3,704.13
+24hr Volume: $3,704.13
+
+Reasoning:
+Elections, protests, or legislative conflicts pose direct risks. Mid-term electoral setbacks, impeachment efforts, or social unrest driven by austerity measures could destabilize Milei’s presidency. Argentina’s geopolitical relationships (e.g., with IMF or trade partners) could also trigger crises impacting his tenure.
+
+Individual Markets:
+
+  Milei out as President of Argentina in 2025?
+  Probabilities: Yes: 7.5%, No: 92.5%
+
+----------------------------------------
+
+#33
+Market: will-venezuela-invade-guyana-in-2025
+Relevance Score: 10.0
+Volume: $2,046.08
+24hr Volume: $721.42
+
+Reasoning:
+This is a geopolitical conflict at its core. Venezuelan territorial claims, internal political posturing (e.g., Maduro's regime stability), regional alliances, and international responses (e.g., U.S., Brazil, or UN sanctions) are critical drivers of invasion likelihood.
+
+Individual Markets:
+
+  Will Venezuela invade Guyana in 2025?
+  Probabilities: Yes: 9.5%, No: 90.5%
+
+----------------------------------------
+
+#34
+Market: will-noboa-win-in-the-first-round-of-the-ecuadorian-presidential-election
+Relevance Score: 10.0
+Volume: $1,546.40
+24hr Volume: $1,042.00
+
+Reasoning:
+The market directly concerns an election outcome. Geopolitical factors like electoral alliances, political scandals, or voter mobilization efforts are central to calculating Noboa’s viability in the first round.
+
+Individual Markets:
+
+  Will Noboa win outright in 1st round of Ecuador Election? 
+  Probabilities: Yes: 27.0%, No: 73.0%
+
+----------------------------------------
+
+#35
+Market: trumps-sovereign-wealth-fund-acquires-bitcoin-before-july
+Relevance Score: 9.0
+Volume: $701.74
+24hr Volume: $701.74
+
+Reasoning:
+The fund is tied to Trump, whose geopolitical agenda (e.g., elections, sanctions, or diplomatic strategies) could directly influence the decision to acquire Bitcoin as a strategic or symbolic move.
+
+Individual Markets:
+
+  Trump's sovereign wealth fund acquires Bitcoin before July?
+  Probabilities: Yes: 14.0%, No: 86.0%
+
+----------------------------------------
+
+================================================================================
+
+Regulatory Changes
+
+================================================================================
+
+#1
+Market: what-price-will-bitcoin-hit-by-march-31
+Relevance Score: 9.0
+Volume: $8,672,678.79
+24hr Volume: $384,405.66
+
+Reasoning:
+Regulatory shifts (e.g., crypto legislation, ETF approvals) can significantly affect liquidity and adoption. Sudden crackdowns or institutional endorsements would directly sway price trajectories and market sentiment.
+
+Individual Markets:
+
+  Will Bitcoin dip to $90,000 by March 31?
+  Probabilities: Yes: 100.0%, No: 0.0%
+
+  Will Bitcoin reach $200,000 by March 31?
+  Probabilities: Yes: 3.8%, No: 96.2%
+
+  Will Bitcoin reach $150,000 by March 31?
+  Probabilities: Yes: 9.0%, No: 91.0%
+
+  Will Bitcoin reach $130,000 by March 31?
+  Probabilities: Yes: 22.0%, No: 78.0%
+
+  Will Bitcoin reach $120,000 by March 31?
+  Probabilities: Yes: 48.5%, No: 51.5%
+
+  Will Bitcoin dip to $80,000 by March 31?
+  Probabilities: Yes: 23.0%, No: 77.0%
+
+  Will Bitcoin reach $110,000 by March 31?
+  Probabilities: Yes: 66.8%, No: 33.2%
+
+  Will Bitcoin dip to $70,000 by March 31?
+  Probabilities: Yes: 7.5%, No: 92.5%
+
+----------------------------------------
+
+#2
+Market: what-price-will-bitcoin-hit-in-february
+Relevance Score: 9.0
+Volume: $4,839,997.03
+24hr Volume: $1,492,347.07
+
+Reasoning:
+Regulatory clarity or crackdowns (e.g., crypto-specific legislation, CBDC developments) have outsized impacts on adoption and liquidity. Current high liquidity ($1.2M) and volume suggest strong institutional participation, which is highly sensitive to regulatory shifts. Tightening rules could invalidate bullish targets like $150k+.
+
+Individual Markets:
+
+  Will Bitcoin reach $200,000 by February 28, 2025?
+  Probabilities: Yes: 0.8%, No: 99.2%
+
+  Will Bitcoin dip to $100,000 by February 28, 2025?
+  Probabilities: Yes: 100.0%, No: 0.0%
+
+  Will Bitcoin reach $115,000 by February 28, 2025?
+  Probabilities: Yes: 30.0%, No: 70.0%
+
+  Will Bitcoin reach $150,000 by February 28, 2025?
+  Probabilities: Yes: 3.6%, No: 96.4%
+
+  Will Bitcoin reach $140,000 by February 28, 2025?
+  Probabilities: Yes: 5.1%, No: 95.0%
+
+  Will Bitcoin dip to $75,000 by February 28, 2025?
+  Probabilities: Yes: 4.5%, No: 95.5%
+
+  Will Bitcoin reach $120,000 by February 28, 2025?
+  Probabilities: Yes: 20.5%, No: 79.5%
+
+  Will Bitcoin reach $110,000 by February 28, 2025?
+  Probabilities: Yes: 47.5%, No: 52.5%
+
+  Will Bitcoin dip to $95,000 by February 28, 2025?
+  Probabilities: Yes: 100.0%, No: 0.0%
+
+  Will Bitcoin dip to $90,000 by February 28, 2025?
+  Probabilities: Yes: 38.0%, No: 62.0%
+
+  Will Bitcoin reach $130,000 by February 28, 2025?
+  Probabilities: Yes: 8.5%, No: 91.5%
+
+  Will Bitcoin dip to $60,000 by February 28, 2025?
+  Probabilities: Yes: 1.6%, No: 98.5%
+
+  Will Bitcoin dip to $85,000 by February 28, 2025?
+  Probabilities: Yes: 18.5%, No: 81.5%
+
+----------------------------------------
+
+#3
+Market: what-price-will-bitcoin-hit-in-2025
+Relevance Score: 9.0
+Volume: $2,112,136.53
+24hr Volume: $184,985.07
+
+Reasoning:
+Regulatory clarity or restrictions will directly impact institutional adoption and market access. Favorable regulations could validate Bitcoin as an asset class, while harsh policies might suppress liquidity and price growth.
+
+Individual Markets:
+
+  Will Bitcoin reach $1,000,000 by December 31, 2025?
+  Probabilities: Yes: 4.5%, No: 95.5%
+
+  Will Bitcoin reach $250,000 by December 31, 2025?
+  Probabilities: Yes: 13.5%, No: 86.5%
+
+  Will Bitcoin reach $200,000 by December 31, 2025?
+  Probabilities: Yes: 21.0%, No: 79.0%
+
+  Will Bitcoin reach $150,000 by December 31, 2025?
+  Probabilities: Yes: 40.5%, No: 59.5%
+
+  Will Bitcoin reach $130,000 by December 31, 2025?
+  Probabilities: Yes: 63.0%, No: 37.0%
+
+  Will Bitcoin reach $120,000 by December 31, 2025?
+  Probabilities: Yes: 75.5%, No: 24.5%
+
+  Will Bitcoin reach $110,000 by December 31, 2025?
+  Probabilities: Yes: 88.5%, No: 11.5%
+
+  Will Bitcoin reach $100,000 by December 31, 2025?
+  Probabilities: Yes: 100.0%, No: 0.0%
+
+  Will Bitcoin dip to $50,000 by December 31, 2025?
+  Probabilities: Yes: 25.5%, No: 74.5%
+
+  Will Bitcoin dip to $90,000 by December 31, 2025?
+  Probabilities: Yes: 100.0%, No: 0.0%
+
+  Will Bitcoin dip to $80,000 by December 31, 2025?
+  Probabilities: Yes: 67.0%, No: 33.0%
+
+  Will Bitcoin dip to $70,000 by December 31, 2025?
+  Probabilities: Yes: 43.0%, No: 57.0%
+
+  Will Bitcoin dip to $20,000 by December 31, 2025?
+  Probabilities: Yes: 4.2%, No: 95.8%
+
+----------------------------------------
+
+#4
+Market: what-price-will-ethereum-hit-in-february
+Relevance Score: 9.0
+Volume: $1,844,029.53
+24hr Volume: $401,928.25
+
+Reasoning:
+Crypto-specific regulations (e.g., ETF approvals, taxation, or bans) could drastically affect Ethereum’s adoption and liquidity. The market’s 100% probabilities for dips may reflect cautious positioning amid unresolved regulatory risks.
+
+Individual Markets:
+
+  Will Ethereum hit $4750 by February 28 2025?
+  Probabilities: Yes: 3.3%, No: 96.7%
+
+  Will Ethereum hit $4000 by February 28 2025?
+  Probabilities: Yes: 8.2%, No: 91.8%
+
+  Will Ethereum hit $3750 by February 28 2025?
+  Probabilities: Yes: 13.5%, No: 86.6%
+
+  Will Ethereum hit $4500 by February 28 2025?
+  Probabilities: Yes: 4.2%, No: 95.8%
+
+  Will Ethereum dip to $3250 by February 28 2025?
+  Probabilities: Yes: 100.0%, No: 0.0%
+
+  Will Ethereum dip to $2500 by February 28 2025?
+  Probabilities: Yes: 100.0%, No: 0.0%
+
+  Will Ethereum dip to $2750 by February 28 2025?
+  Probabilities: Yes: 100.0%, No: 0.0%
+
+  Will Ethereum dip to $2000 by February 28 2025?
+  Probabilities: Yes: 6.5%, No: 93.5%
+
+  Will Ethereum dip to $3000 by February 28 2025?
+  Probabilities: Yes: 100.0%, No: 0.0%
+
+  Will Ethereum hit $5000 by February 28 2025?
+  Probabilities: Yes: 1.9%, No: 98.0%
+
+  Will Ethereum hit $6000 by February 28 2025?
+  Probabilities: Yes: 0.6%, No: 99.4%
+
+  Will Ethereum hit $4250 by February 28 2025?
+  Probabilities: Yes: 5.9%, No: 94.0%
+
+  Will Ethereum hit $3500 by February 28 2025?
+  Probabilities: Yes: 27.5%, No: 72.5%
+
+----------------------------------------
+
+#5
+Market: what-price-will-ethereum-hit-in-2025
+Relevance Score: 9.0
+Volume: $1,542,790.74
+24hr Volume: $69,620.60
+
+Reasoning:
+Crypto-specific regulations (e.g., bans, compliance mandates) directly impact adoption and liquidity. Strict regulations could suppress ETH's price (explaining high dip probabilities), while favorable policies could boost targets like $6,000 or $7,000. This is a critical variable in price projections.
+
+Individual Markets:
+
+  Will Ethereum hit $7,000 by December 31?
+  Probabilities: Yes: 23.5%, No: 76.5%
+
+  Will Ethereum hit $10,000 by December 31?
+  Probabilities: Yes: 15.0%, No: 85.0%
+
+  Will Ethereum hit $8,000 by December 31?
+  Probabilities: Yes: 18.0%, No: 82.0%
+
+  Will Ethereum hit $6,000 by December 31?
+  Probabilities: Yes: 27.5%, No: 72.5%
+
+  Will Ethereum hit $5,000 by December 31?
+  Probabilities: Yes: 42.5%, No: 57.5%
+
+  Will Ethereum hit $4,000 by December 31?
+  Probabilities: Yes: 64.0%, No: 36.0%
+
+  Will Ethereum dip to $3,000 by December 31?
+  Probabilities: Yes: 100.0%, No: 0.0%
+
+  Will Ethereum dip to $2,500 by December 31?
+  Probabilities: Yes: 100.0%, No: 0.0%
+
+  Will Ethereum dip to $2,000 by December 31?
+  Probabilities: Yes: 59.0%, No: 41.0%
+
+  Will Ethereum dip to $1,500 by December 31?
+  Probabilities: Yes: 32.5%, No: 67.5%
+
+  Will Ethereum dip to $1,000 by December 31?
+  Probabilities: Yes: 9.5%, No: 90.5%
+
+----------------------------------------
+
+#6
+Market: ethereum-all-time-high-by-march
+Relevance Score: 9.0
+Volume: $1,168,302.58
+24hr Volume: $82,582.23
+
+Reasoning:
+Regulatory clarity or crackdowns in key markets (e.g., U.S., EU) could significantly impact Ethereum's adoption and investor confidence, making this a critical factor ahead of the market’s end date.
+
+Individual Markets:
+
+  Ethereum all time high by March 31?
+  Probabilities: Yes: 10.0%, No: 90.0%
+
+----------------------------------------
+
+#7
+Market: what-price-will-solana-hit-in-february
+Relevance Score: 9.0
+Volume: $795,457.20
+24hr Volume: $234,016.77
+
+Reasoning:
+Crypto-specific regulations (e.g., crackdowns, ETF approvals, market structure rules) directly impact adoption and liquidity. Regulatory clarity or hostility in key markets like the U.S. or EU would significantly affect Solana's price trajectory.
+
+Individual Markets:
+
+  Will Solana hit $250 by February 28 2025?
+  Probabilities: Yes: 52.5%, No: 47.5%
+
+  Will Solana dip to $120 by February 28 2025?
+  Probabilities: Yes: 5.5%, No: 94.5%
+
+  Will Solana hit $400 by February 28 2025?
+  Probabilities: Yes: 1.2%, No: 98.8%
+
+  Will Solana dip to $100 by February 28 2025?
+  Probabilities: Yes: 2.2%, No: 97.8%
+
+  Will Solana hit $350 by February 28 2025?
+  Probabilities: Yes: 4.5%, No: 95.5%
+
+  Will Solana dip to $200 by February 28 2025?
+  Probabilities: Yes: 100.0%, No: 0.0%
+
+  Will Solana dip to $180 by February 28 2025?
+  Probabilities: Yes: 100.0%, No: 0.0%
+
+  Will Solana hit $275 by February 28 2025?
+  Probabilities: Yes: 30.0%, No: 70.0%
+
+  Will Solana hit $300 by February 28 2025?
+  Probabilities: Yes: 15.0%, No: 85.0%
+
+  Will Solana dip to $140 by February 28 2025?
+  Probabilities: Yes: 7.5%, No: 92.5%
+
+  Will Solana dip to $160 by February 28 2025?
+  Probabilities: Yes: 26.0%, No: 74.0%
+
+----------------------------------------
+
+#8
+Market: who-will-acquire-tiktok
+Relevance Score: 9.0
+Volume: $325,228.95
+24hr Volume: $12,744.04
+
+Reasoning:
+Antitrust scrutiny (e.g., blocking Meta) and CFIUS rulings on foreign ownership are pivotal. New regulations on data privacy or national security could exclude certain bidders or mandate structural terms, directly shaping acquisition outcomes.
+
+Individual Markets:
+
+  Will Microsoft buy TikTok?
+  Probabilities: Yes: 19.5%, No: 80.5%
+
+  Will Amazon buy TikTok?
+  Probabilities: Yes: 4.0%, No: 96.0%
+
+  Will Frank McCourt buy TikTok?
+  Probabilities: Yes: 10.5%, No: 89.5%
+
+  Will Perplexity AI buy TikTok?
+  Probabilities: Yes: 5.1%, No: 95.0%
+
+  Will Oracle buy TikTok?
+  Probabilities: Yes: 26.5%, No: 73.5%
+
+  Will Meta buy TikTok?
+  Probabilities: Yes: 3.5%, No: 96.5%
+
+  Will Walmart buy TikTok?
+  Probabilities: Yes: 3.5%, No: 96.5%
+
+  Will X buy TikTok?
+  Probabilities: Yes: 1.5%, No: 98.5%
+
+  Will Rumble buy TikTok?
+  Probabilities: Yes: 4.8%, No: 95.2%
+
+  Will Steve Mnuchin buy TikTok?
+  Probabilities: Yes: 3.5%, No: 96.5%
+
+  Will Elon Musk buy TikTok before July?
+  Probabilities: Yes: 5.9%, No: 94.0%
+
+  Will Bobby Kotick buy TikTok?
+  Probabilities: Yes: 2.3%, No: 97.7%
+
+  Will Sam Altman buy TikTok?
+  Probabilities: Yes: 4.5%, No: 95.5%
+
+  Will Larry Ellison buy TikTok before July?
+  Probabilities: Yes: 22.5%, No: 77.5%
+
+  Will MrBeast buy TikTok before July?
+  Probabilities: Yes: 15.5%, No: 84.5%
+
+----------------------------------------
+
+#9
+Market: solana-above-240-on-february-7
+Relevance Score: 9.0
+Volume: $283,194.99
+24hr Volume: $111,523.33
+
+Reasoning:
+Crypto prices are highly sensitive to regulatory shifts. A major policy announcement before February 7 could drastically affect Solana’s valuation, making this a critical factor.
+
+Individual Markets:
+
+  Solana above $240 on February 7?
+  Probabilities: Yes: 17.2%, No: 82.8%
+
+----------------------------------------
+
+#10
+Market: xrp-all-time-high-by-when
+Relevance Score: 9.0
+Volume: $260,460.04
+24hr Volume: $2,759.37
+
+Reasoning:
+XRP’s regulatory clarity (e.g., resolution of SEC vs. Ripple case) is critical. Favorable rulings or crypto-friendly regulations could trigger price surges, while adverse policies could suppress momentum. This remains the most immediate and high-impact factor.
+
+Individual Markets:
+
+  XRP all time high by June 30?
+  Probabilities: Yes: 35.5%, No: 64.5%
+
+  XRP all time high by March 31?
+  Probabilities: Yes: 26.5%, No: 73.5%
+
+  XRP all time high by January 31?
+  Probabilities: Yes: 0.0%, No: 100.0%
+
+----------------------------------------
+
+#11
+Market: ethereum-all-time-high-by-june
+Relevance Score: 9.0
+Volume: $236,069.07
+24hr Volume: $15,297.78
+
+Reasoning:
+Regulatory shifts, particularly in major markets like the U.S. or EU, could significantly impact Ethereum's price. Approval of ETH ETFs, stricter DeFi rules, or CBDC policies may drive volatility. Regulatory clarity or crackdowns near June 2025 would be pivotal.
+
+Individual Markets:
+
+  Ethereum all time high by June 30?
+  Probabilities: Yes: 28.0%, No: 72.0%
+
+----------------------------------------
+
+#12
+Market: will-tiktok-be-on-the-app-store-on-may-1
+Relevance Score: 9.0
+Volume: $206,383.88
+24hr Volume: $8,980.73
+
+Reasoning:
+Regulatory actions (e.g., new app store compliance rules, data localization laws, or CFIUS-mandated divestiture of TikTok's Chinese ownership) are the most direct factor. Recent debates in Congress and executive orders highlight this as a critical determinant.
+
+Individual Markets:
+
+  Will TikTok be on the App Store on May 1?
+  Probabilities: Yes: 61.0%, No: 39.0%
+
+----------------------------------------
+
+#13
+Market: opensea-airdrop-before-april
+Relevance Score: 9.0
+Volume: $169,346.12
+24hr Volume: $2,152.45
+
+Reasoning:
+Regulatory shifts, such as SEC actions on airdrops as securities, could directly force OpenSea to delay or restructure the airdrop, posing a high risk.
+
+Individual Markets:
+
+  OpenSea airdrop before April?
+  Probabilities: Yes: 35.5%, No: 64.5%
+
+----------------------------------------
+
+#14
+Market: ripple-above-3pt10-on-february-7
+Relevance Score: 9.0
+Volume: $134,321.33
+24hr Volume: $56,118.53
+
+Reasoning:
+Ripple is highly sensitive to regulatory news due to its ongoing SEC litigation. A sudden resolution or major crypto regulatory announcement before February 7 would significantly impact its price, making this the highest-relevance factor.
+
+Individual Markets:
+
+  Ripple above $3.10 on February 7?
+  Probabilities: Yes: 18.8%, No: 81.2%
+
+----------------------------------------
+
+#15
+Market: trump-abolishes-the-federal-income-tax-in-2025
+Relevance Score: 9.0
+Volume: $24,055.59
+24hr Volume: $1,395.62
+
+Reasoning:
+Eliminating income tax would necessitate compensatory measures, such as new consumption taxes or deregulation of financial markets. Crypto regulations might also shift if alternative revenue streams are explored.
+
+Individual Markets:
+
+  Trump abolishes the Federal Income Tax in 2025?
+  Probabilities: Yes: 9.5%, No: 90.5%
+
+----------------------------------------
+
+#16
+Market: berachain-market-cap-fdv-one-day-after-launch
+Relevance Score: 9.0
+Volume: $22,149.69
+24hr Volume: $883.64
+
+Reasoning:
+Regulatory shifts (e.g., crypto-specific legislation, bans, or favorable rulings) around the launch date could drastically alter investor sentiment and liquidity. Sudden restrictions or endorsements would have a direct and immediate impact on valuation.
+
+Individual Markets:
+
+  Will Berachain's FDV be less than $3b 1 day after launch?
+  Probabilities: Yes: 21.0%, No: 79.0%
+
+  Will Berachain's FDV be $3-5b 1 day after launch?
+  Probabilities: Yes: 28.0%, No: 72.0%
+
+  Will Berachain's FDV be $5-7b 1 day after launch?
+  Probabilities: Yes: 13.5%, No: 86.5%
+
+  Will Berachain's FDV be $7-10b 1 day after launch?
+  Probabilities: Yes: 19.5%, No: 80.5%
+
+  Will Berachain's FDV be $10-15b 1 day after launch?
+  Probabilities: Yes: 20.0%, No: 80.0%
+
+  Will Berachain's FDV be $15b or more 1 day after launch?
+  Probabilities: Yes: 18.5%, No: 81.5%
+
+----------------------------------------
+
+#17
+Market: texas-strategic-bitcoin-reserve-act-signed-in-2025
+Relevance Score: 9.0
+Volume: $13,604.09
+24hr Volume: $738.21
+
+Reasoning:
+The Act itself is a regulatory change tied to crypto. Federal or state crypto policies (e.g., SEC rulings, tax treatments) would directly shape Texas’s legislative environment and the reserve’s feasibility.
+
+Individual Markets:
+
+  Texas Strategic Bitcoin Reserve Act signed in 2025?
+  Probabilities: Yes: 55.5%, No: 44.5%
+
+----------------------------------------
+
+#18
+Market: will-a-chinese-model-become-1-before-april
+Relevance Score: 9.0
+Volume: $9,060.91
+24hr Volume: $812.11
+
+Reasoning:
+Chinese regulatory policies directly governing AI (e.g., approvals for public deployment, data access, or compute resource allocation) would critically impact the timeline. Similarly, restrictive regulations in Western markets against Chinese AI models could stifle global recognition, affecting their #1 claim.
+
+Individual Markets:
+
+  Will a Chinese AI model become #1 before April? 
+  Probabilities: Yes: 16.5%, No: 83.5%
+
+----------------------------------------
+
+================================================================================
+
+Technological Developments
+
+================================================================================
+
+#1
+Market: ethereum-all-time-high-by-march
+Relevance Score: 9.0
+Volume: $1,168,302.58
+24hr Volume: $82,582.23
+
+Reasoning:
+Ethereum’s technological advancements (e.g., scalability upgrades, layer-2 innovations) or ecosystem growth (DeFi, NFTs) could boost utility and demand. Delays or failures in key updates may hinder price performance.
+
+Individual Markets:
+
+  Ethereum all time high by March 31?
+  Probabilities: Yes: 10.0%, No: 90.0%
+
+----------------------------------------
+
+#2
+Market: will-deepseek-still-be-1-free-app-on-next-friday
+Relevance Score: 9.0
+Volume: $71,516.34
+24hr Volume: $9,987.19
+
+Reasoning:
+Technological developments (e.g., AI updates, competitor app releases) are highly relevant. DeepSeek's #1 position likely depends on user engagement and innovation, which could shift rapidly due to technical improvements or competitor actions.
+
+Individual Markets:
+
+  Will DeepSeek still be #1 Free app next Friday?
+  Probabilities: Yes: 69.5%, No: 30.5%
+
+----------------------------------------
+
+#3
+Market: which-companies-will-have-a-1-ai-model-this-year
+Relevance Score: 10.0
+Volume: $60,432.23
+24hr Volume: $1,454.33
+
+Reasoning:
+The market revolves entirely around AI model supremacy, making breakthroughs in training efficiency, architectural innovation, or compute optimization the primary driver. A company like OpenAI or Anthropic could decisively clinch the #1 spot with a major technical leap.
+
+Individual Markets:
+
+  Will 01A1 have a #1 AI model this year?
+  Probabilities: Yes: 9.5%, No: 90.5%
+
+  Will OpenAI have a #1 AI model this year?
+  Probabilities: Yes: 87.5%, No: 12.5%
+
+  Will DeepSeek have a #1 AI model this year?
+  Probabilities: Yes: 26.5%, No: 73.5%
+
+  Will xAI have a #1 AI model this year?
+  Probabilities: Yes: 23.5%, No: 76.5%
+
+  Will Anthropic have a #1 AI model this year?
+  Probabilities: Yes: 29.5%, No: 70.5%
+
+  Will Meta have a #1 AI model this year?
+  Probabilities: Yes: 14.5%, No: 85.5%
+
+  Will Zhipu AI have a #1 AI model this year?
+  Probabilities: Yes: 8.5%, No: 91.5%
+
+  Will Mistral have a #1 AI model this year?
+  Probabilities: Yes: 8.5%, No: 91.5%
+
+  Will Alibaba have a #1 AI model this year?
+  Probabilities: Yes: 20.0%, No: 80.0%
+
+  Will Nvidia have a #1 AI model this year?
+  Probabilities: Yes: 8.0%, No: 92.0%
+
+----------------------------------------
+
+#4
+Market: berachain-market-cap-fdv-one-day-after-launch
+Relevance Score: 9.0
+Volume: $22,149.69
+24hr Volume: $883.64
+
+Reasoning:
+Berachain's technological execution (scalability, security, partnerships) and competitors' innovations at launch are critical. Technical successes or failures, or breakthroughs in blockchain tech, would directly influence investor confidence and FDV.
+
+Individual Markets:
+
+  Will Berachain's FDV be less than $3b 1 day after launch?
+  Probabilities: Yes: 21.0%, No: 79.0%
+
+  Will Berachain's FDV be $3-5b 1 day after launch?
+  Probabilities: Yes: 28.0%, No: 72.0%
+
+  Will Berachain's FDV be $5-7b 1 day after launch?
+  Probabilities: Yes: 13.5%, No: 86.5%
+
+  Will Berachain's FDV be $7-10b 1 day after launch?
+  Probabilities: Yes: 19.5%, No: 80.5%
+
+  Will Berachain's FDV be $10-15b 1 day after launch?
+  Probabilities: Yes: 20.0%, No: 80.0%
+
+  Will Berachain's FDV be $15b or more 1 day after launch?
+  Probabilities: Yes: 18.5%, No: 81.5%
+
+----------------------------------------
+
+#5
+Market: sam-altman-out-as-openai-ceo-before-april
+Relevance Score: 9.0
+Volume: $19,901.13
+24hr Volume: $1,887.41
+
+Reasoning:
+Technological milestones, failures, or ethical concerns in AI (e.g., product performance, safety issues) are highly relevant to leadership stability at OpenAI. A significant technological development could trigger board dissatisfaction or public pressure, making this the most impactful factor.
+
+Individual Markets:
+
+  Sam Altman out as OpenAI CEO before April?
+  Probabilities: Yes: 3.5%, No: 96.5%
+
+----------------------------------------
+
+#6
+Market: will-sol-flip-eth-before-may
+Relevance Score: 9.0
+Volume: $19,022.95
+24hr Volume: $1,449.55
+
+Reasoning:
+SOL's potential to flip ETH hinges heavily on technical milestones. Upgrades to SOL’s throughput/stability or ETH’s delays in scaling (e.g., proto-danksharding) could shift investor sentiment. Breakthroughs in adoption (e.g., SOL-based stablecoins, institutional partnerships) would be critical.
+
+Individual Markets:
+
+  Will SOL flip ETH before May?
+  Probabilities: Yes: 4.4%, No: 95.6%
+
+----------------------------------------
+
+#7
+Market: will-a-chinese-model-become-1-before-april
+Relevance Score: 10.0
+Volume: $9,060.91
+24hr Volume: $812.11
+
+Reasoning:
+The core determinant is whether a Chinese model achieves a verifiable technical breakthrough (e.g., surpassing GPT-4/5 in benchmarks, scalability, or adoption). Direct advancements in AI capabilities, partnerships, or deployment milestones in Q1 2025 would be decisive.
+
+Individual Markets:
+
+  Will a Chinese AI model become #1 before April? 
+  Probabilities: Yes: 16.5%, No: 83.5%
+
+----------------------------------------
